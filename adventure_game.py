@@ -137,4 +137,5 @@ def play_game():
     field()
 
 
-play_game()
+if __name__ == "__main__":
+    play_game()
